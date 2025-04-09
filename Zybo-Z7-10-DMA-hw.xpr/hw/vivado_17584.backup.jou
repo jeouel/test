@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Feb 17 14:58:07 2021
+# Process ID: 17584
+# Current directory: C:/Users/arthur/AppData/Roaming/Xilinx/Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9992
+# Log file: C:/Users/arthur/AppData/Roaming/Xilinx/Vivado/vivado.log
+# Journal file: C:/Users/arthur/AppData/Roaming/Xilinx/Vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Github/Zybo-Z7/hw/proj/hw.xpr
+update_compile_order -fileset sources_1
+archive_project D:/Github/Zybo-Z7/release/Zybo-Z7-10-DMA-2020.1-1-hw.xpr.xpr.zip -temp_dir C:/Users/arthur/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-17584-WK142 -force -include_local_ip_cache
